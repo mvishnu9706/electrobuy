@@ -1,0 +1,23 @@
+
+# Environment secrets
+.env
+.env.*
+
+# Java
+*.class
+
+# Maven build
+**/target/
+
+# IDE
+.vscode/
+.idea/
+**/.vscode/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
